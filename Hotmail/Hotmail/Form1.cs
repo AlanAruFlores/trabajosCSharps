@@ -14,7 +14,6 @@ namespace WFPrueba
 {
     public partial class Form1 : Form
     {
-        static ArrayList mailsRegistrados = new ArrayList();
         static Form2 segundaVentana = new Form2();
         public Form1()
         {
@@ -22,12 +21,11 @@ namespace WFPrueba
         }
         private void botonEnviar_Click(object sender, EventArgs e)
         {
-            mailsRegistrados.Add(textMail.Text);
             segundaVentana = new Form2();
 
             if (textMail.Text.Contains("@hotmail.com") != true || textPassword.Text.Length <= 0)
             {
-                MessageBox.Show("ERROR");
+                MessageBox.Show("ERROR: Verifique su correo de hotmail o contraseña");
             }
             else
             {
