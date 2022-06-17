@@ -162,3 +162,7 @@ C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\obj\Debug\CopaAmerica.
 C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\obj\Debug\CopaAmerica.csproj.CopyComplete
 C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\obj\Debug\CopaAmerica.exe
 C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\obj\Debug\CopaAmerica.pdb
+C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\bin\Debug\CopaAmerica.exe.manifest
+C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\bin\Debug\CopaAmerica.application
+C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\obj\Debug\CopaAmerica.exe.manifest
+C:\Users\Usuario\Desktop\trabajos\CopaAmerica\CopaAmerica\obj\Debug\CopaAmerica.application

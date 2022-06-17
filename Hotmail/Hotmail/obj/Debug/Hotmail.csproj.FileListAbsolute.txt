@@ -160,3 +160,7 @@ C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\obj\Debug\Hotmail.csproj.CoreC
 C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\obj\Debug\Hotmail.csproj.CopyComplete
 C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\obj\Debug\WFPrueba.exe
 C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\obj\Debug\WFPrueba.pdb
+C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\bin\Debug\WFPrueba.exe.manifest
+C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\bin\Debug\WFPrueba.application
+C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\obj\Debug\WFPrueba.exe.manifest
+C:\Users\Usuario\Desktop\trabajos\Hotmail\Hotmail\obj\Debug\WFPrueba.application
